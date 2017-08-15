@@ -32,3 +32,66 @@
 .post-area a:hover {
   color: #0D0017;
 }
+
+/*.portfolio{
+    padding: 4em 0;
+}
+
+ul.simplefilter {
+  text-align: center;
+    margin: 4em 0 3em;
+    padding: 0;
+}
+
+.simplefilter li, .multifilter li, .sortandshuffle li {
+  color: #212121;
+    cursor: pointer;
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: .9em;
+    font-weight: 600;
+    margin: 0 0.4em;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -o-border-radius: 30px;
+    -ms-border-radius: 30px;
+}
+.simplefilter li {
+    border: 2px solid #212121;
+}
+.simplefilter li.active {
+    border: 2px solid #ff9800;
+    color: #ffffff;
+    background: #ff9800;
+  border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -o-border-radius: 30px;
+    -ms-border-radius: 30px;
+}
+
+ul.simplefilter {
+  text-align: center;
+    margin: 4em 0 3em;
+    padding: 0;
+}
+
+.filtr-container {
+  width: 100%;
+}
+
+.filtr-item {
+  transform: scale(1) translate3d(0px, 0px, 0px);
+  -o-transform: scale(1) translate3d(0px, 0px, 0px);
+  transition: all 0.5s ease-out 0ms;
+  -o-transition: all 0.5s ease-out 0ms;
+  transform-style: preserve-3d;
+  -o-transform-style: preserve-3d;
+}
+
+.filtr-item {
+  padding: 0;
+  width: 33.3335%;
+  float: left;
+}*/

@@ -68,6 +68,8 @@ a:active {
 header {
   background: #fff;
   padding: 20px 0;
+  border-bottom-style: solid;
+  border-bottom-color: #4E4E4E;
 }
 header .navbar {
   margin-bottom: 0px;
